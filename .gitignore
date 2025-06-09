@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+
+# Optional: OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Optional: Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Optional: Coverage/testing
+coverage/
+*.lcov
+
+# Optional: Build output
+dist/
+build/
